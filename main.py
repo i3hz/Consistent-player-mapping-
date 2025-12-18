@@ -137,7 +137,7 @@ class SoccerPlayerTracker:
 tracker = SoccerPlayerTracker(
     model_path="best.pt",  
     input_video="15.mp4",
-    output_video="output1.mp4",
+    output_video="output.mp4",
     similarity_threshold=0.55,  
     memory_seconds=30.0
 )
