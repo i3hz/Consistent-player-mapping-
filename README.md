@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ---
 
 ## Running the Application
-
+(Before running please make sure that you also have the model `best.pt` in the same directory as `main.py` . )
 ```bash
 python main.py
 ```
