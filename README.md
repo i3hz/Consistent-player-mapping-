@@ -1,6 +1,6 @@
-# Project Name
+# Consistent player mapping
 
-Consistent player mapping - An application which tracks and id's players in a video feed making sure the id's are consistent . 
+An application which tracks and id's players in a video feed making sure the id's are consistent . 
 ---
 
 ## Requirements
